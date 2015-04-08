@@ -1,0 +1,5 @@
+<resources>
+     <file type="css" name="extra.css" />
+     <file type="js" name="extra.js" />
+     <file type="xml" name="extra.xml" id="extraxml" />
+</resources>

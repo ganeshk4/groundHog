@@ -1,0 +1,19 @@
+#placeHolder
+{
+     position : absolute;
+     top : 100px;
+     left : 100px;
+     height : 300px;
+     width : 450px;
+     outline : black solid 1px;     
+}
+
+.AppLink
+{
+     cursor : pointer;    
+}
+
+.DummyAppLink /*Use as same as .AppLink But the Apps which are not using OUR API */
+{
+     cursor : pointer;    
+}

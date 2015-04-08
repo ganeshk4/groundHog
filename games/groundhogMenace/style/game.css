@@ -1,0 +1,113 @@
+#Screen1
+{
+	position : absolute;
+    border : black solid 1px;
+    height : 100%;
+    width : 100%;
+}
+
+.OrangeBtns
+{
+	position : absolute;
+	padding : 5px;
+	padding-top : 3px;
+	padding-bottom: 3px;
+	font-size: 18px;
+	font-family: Courier;
+	cursor : pointer;
+	background-color: #EE991A;
+	border-radius: 7px;
+}
+#HowToPlyBtn{left: 348px; top: 241px;}
+#StartBtn{ left: 376px; top: 167px;}
+#CreditsBtn{top: 313px; left: 367px;}
+
+#PopUpScreen{ position: absolute;height: 372px;width: 570px;border: black solid 1px;left: 130px;top: 65px; background-color : Yellow;}
+#PopupTextContainer{font-family: Courier;}
+#ClosePopupBtn{right : 30px; bottom : 30px;}
+#OverFlowContainer{position: absolute;height: 250px;width: 500px;top: 35px;left: 35px; overflow : auto;}
+
+#Screen2
+{
+	position : absolute;
+    border : black solid 1px;
+    height : 100%;
+    width : 100%;
+}
+#TopMenu{position : absolute;
+    border : black solid 1px;
+    height : 50px;
+    width : 100%;}
+    
+    #HowToPlyBtn2{right: 50px; top: 12px;}
+#PauseContinue{ left: 376px; top: 12px;}
+#CreditsBtn2{top: 12px; left: 50px;}
+
+#ScoreCard{ position : absolute; height : 100px; width : 250px; border : black solid 1px;right : 100px; top: 50px;font-family: Courier; }
+#level{ padding-top : 8px;
+height: 25px; text-align : center; border-bottom : black solid 1px;}
+#levelText, #levelNo{float : left; width : 50%; height : 100%;}
+#levelNo, #ScoreNo{font-weight : bold;}
+#Score{height : 65px; width : 250px; display : table-cell !important; vertical-align : middle;}
+#ScoreText, #ScoreNo{ width : 50%; float : left; height : 20px; text-align : center;}
+
+#TimeRemaining{position: absolute;
+height: 100px;
+width: 100px;
+border: black solid 1px;
+right : 0px;
+top: 50px;font-family: Courier;}
+#Time{text-align : center; padding-top : 35%; font-weight : bold;}
+
+#StartCounter
+{
+ position : absolute;
+ height : 150px;
+ width : 150px;
+ border : black solid 1px;
+ background-color : lightyellow;
+ top : 200px; left : 345px;  
+ font-family: Courier;
+ font-weight : bold;
+ font-size : 150%;
+ z-index :1;
+	}
+#CounterText{text-align : center; padding-top : 55px; color : Red;}
+
+.DukkarPinjara{position: absolute;
+border: black solid 1px;
+height: 75px;
+width: 75px;}
+#DukkarPinjara12{left: 620px;
+top: 335px;}
+#DukkarPinjara11{left: 570px;
+top: 180px;}
+#DukkarPinjara10{left: 711px;
+top: 220px;}
+#DukkarPinjara9{left: 285px;
+top: 307px;}
+#DukkarPinjara8{left: 152px;
+top: 417px;}
+#DukkarPinjara7{top: 350px;
+left: 20px;}
+#DukkarPinjara6{top: 188px;
+left: 242px;}
+#DukkarPinjara5{left: 483px;
+top: 396px;}
+#DukkarPinjara4{left: 99px;
+top: 245px;}
+#DukkarPinjara3{left: 735px;
+top: 397px;}
+#DukkarPinjara2{left: 364px;
+top: 433px;}
+#DukkarPinjara1{left: 432px;
+top: 255px;}
+
+#oGDukkar{height : 100%; width : 100%; background-color : Lime; cursor : pointer;}
+.luckpot{position : absolute; height : 15px; width:15px;border : black solid 1px;}
+#luckpot1{left : 209px; top : 347px;}
+#luckpot2{left : 567px; top : 309px;}
+#luckpot3{left : 70px; top : 463px;}
+#luckpot4{left : 684px; top : 462px;}
+#luckpot5{left : 433px; top : 197px;}
+#oPot{height : 100%; width : 100%; background-color : Yellow;}

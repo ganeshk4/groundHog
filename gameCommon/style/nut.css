@@ -1,0 +1,23 @@
+#nutContainer
+{
+     position : absolute;   
+     height : 520px;
+     width : 840px;
+     top : 0px;
+     left : 0px;  
+}
+
+#LoadingArea
+{
+     width : 20%;
+     margin-left : 40%;
+     text-align : center;  
+     cursor : pointer;   
+     position : relative;
+}
+#ImgAd
+{
+     height : 460px;
+     width : 100%;     
+     background-size : 100% 100%;
+}

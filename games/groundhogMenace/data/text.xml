@@ -1,0 +1,30 @@
+<data>
+  <element id="StartBtn"> <![CDATA[ Start ]]> </element>
+  <element id="CreditsBtn"> <![CDATA[ Credits ]]> </element>
+  <element id="HowToPlayBtn"> <![CDATA[ How To Play ]]> </element>
+  <element id="ClosePopupBtn"> <![CDATA[ Close ]]> </element>
+
+  <element id="Instructions"> <![CDATA[ This interactive game can be entirely played using mouse on Pcs. Or you can use
+  touch to emulate click on touch devices. <br /><br />
+  You need to select (click / tap), hogs coming out from the ground.<br /><br />
+  Points are awarded depending upon your quickness of selection of the hog.<br /><br />
+  You need to select atleast 2/3 hogs to proceed to next level, your score doesnot count as element to proceed to next level.<br /><br />
+  As you proceed to next level the speed of hogs increses.<br /><br />
+  Level 5 is unbeatable.
+  ]]> </element>
+  <element id="Developer"> <![CDATA[ CREDITS ]]> </element>
+
+  <element id="Pause"> <![CDATA[ Pause ]]> </element>
+  <element id="Continue"> <![CDATA[ Continue ]]> </element>
+  <element id="levelText"> <![CDATA[ Level ]]> </element>
+  <element id="ScoreText"> <![CDATA[ Score ]]> </element>
+  
+  <element id="Restart"> <![CDATA[ Restart ]]> </element>
+  <element id="Continue"> <![CDATA[ Continue ]]> </element>
+  <element id="Continue"> <![CDATA[ Continue ]]> </element>
+  <element id="Continue"> <![CDATA[ Continue ]]> </element>
+  <element id="Continue"> <![CDATA[ Continue ]]> </element>
+
+  <element id="Failed2by3text"> <![CDATA[ Ha HAH ha ha ! You failed to kill 2/3 groundhogs in this level. Try again! ]]> </element>
+
+</data>
